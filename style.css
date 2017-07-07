@@ -1,0 +1,120 @@
+.header{
+    padding: 0%;
+    height: 50px;
+}
+
+
+
+.navigation{
+    background-color:#39D8FF;
+    border:none;
+    border-radius: 0px;
+}
+
+.mainheader{
+    position: relative;
+    left: 20%;
+}
+
+.listnav ul li {
+    color:#00001a;
+    font-size:16px;
+}
+
+#about{
+    background-color: lightblue;
+    width: 100%;
+    height: auto;
+    padding-bottom: 100px;
+}
+
+.img{
+    border-radius: 50%;
+    position: relative;
+    top:80px;
+    right: 6%;
+    max-width: 80%;
+    height: 250px;
+    width: 250px;
+    margin-top: 50px;
+}
+
+.text1{
+    position: relative;
+    left: 10%;
+    top:120px;
+    font-size: x-large;
+    padding-right: 30px;
+}
+
+.text2{
+    position: relative;
+    left: 14%;
+    top:140px;
+    color: darkgrey;
+    font-size: x-large;
+    padding-right: 30px;
+}
+
+#portfolio{
+    background-color: #B0C4DE;
+    width: 100%;
+    height: auto;
+    padding-bottom: 100px;
+}
+
+.img1{
+    width: 80%;
+    height: auto;
+    margin-left: 5%;
+    margin-top: 40px;
+}
+
+
+#contact{
+    background-color: lightblue;
+    width: 100%;
+    height: auto;
+    padding-bottom: 100px;
+}
+
+.contacttext{
+    margin-top: 50px;
+    margin-right: 12%;
+    margin-left: 5px;
+    font-size: 20px;
+    color: #2F4F4F;
+}
+
+.form{
+    margin-top: 40px;
+}
+
+.form-group{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.form-control{
+    background-color: cadetblue;
+    color: black;
+    border-radius: 7px;
+    height: 40px;
+}
+
+.form button{
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
